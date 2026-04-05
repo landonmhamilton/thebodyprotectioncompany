@@ -1,0 +1,1 @@
+---\nname: SKILL\ndescription: A detailed description of the skill including its applications and benefits.\n---\n\n# Skill Description\nThis is the full SKILL.md content with detailed information about the skill, including its features, usage examples, and potential applications.\n
